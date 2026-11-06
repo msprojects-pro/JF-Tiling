@@ -1,0 +1,6 @@
+{
+  "name": "J.F Tiling & Bathrooms",
+  "description": "Premium website for J.F Tiling & Bathrooms offering expert bathroom renovations, luxury wet rooms, and precision tiling in Sheffield, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
